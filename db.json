@@ -1,0 +1,41 @@
+{
+  "destinations": [
+    { "id": 1, "name": "Paris", "experiences": 502, "image": "https://source.unsplash.com/random/400x300/?paris,eiffel" },
+    { "id": 2, "name": "Rome", "experiences": 1234, "image": "https://source.unsplash.com/random/400x300/?rome,colosseum" },
+    { "id": 3, "name": "New York", "experiences": 876, "image": "https://source.unsplash.com/random/400x300/?newyork,statue" },
+    { "id": 4, "name": "London", "experiences": 987, "image": "https://source.unsplash.com/random/400x300/?london,bigben" },
+    { "id": 5, "name": "Barcelona", "experiences": 654, "image": "https://source.unsplash.com/random/400x300/?barcelona,gaudi" },
+    { "id": 6, "name": "Dubai", "experiences": 432, "image": "https://source.unsplash.com/random/400x300/?dubai,burj" }
+  ],
+  "tours": [
+    {
+      "id": 1,
+      "title": "Eiffel Tower: Summit Access & Guided Tour",
+      "rating": 4.8,
+      "reviews": 23456,
+      "description": "Skip-the-line entry • Hosted in English",
+      "price": 89,
+      "image": "https://source.unsplash.com/random/400x300/?eiffel,tower"
+    },
+    {
+      "id": 2,
+      "title": "Vatican Museums & Sistine Chapel",
+      "rating": 4.9,
+      "reviews": 18921,
+      "description": "Fast-track entry • Small group option",
+      "price": 65,
+      "image": "https://source.unsplash.com/random/400x300/?vatican,museum"
+    },
+    {
+      "id": 3,
+      "title": "Sagrada Família Skip-the-Line Ticket",
+      "rating": 4.7,
+      "reviews": 31200,
+      "description": "Audio guide included • Towers access",
+      "price": 42,
+      "image": "https://source.unsplash.com/random/400x300/?sagrada,familia"
+    }
+    
+  ],
+  "bookings": []
+}
